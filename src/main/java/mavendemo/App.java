@@ -1,8 +1,8 @@
 package mavendemo;
 
 public class App {
-	public string Sample() {
-		return "sample string";
+	public static void main(String[] args) {
+		system.out.println("Hello World");
 	}
 
 }
